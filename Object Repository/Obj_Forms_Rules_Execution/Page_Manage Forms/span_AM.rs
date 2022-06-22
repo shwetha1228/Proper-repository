@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_AM</name>
+   <tag></tag>
+   <elementGuidId>49ff2c2c-862a-4f16-b818-25253fa6bda8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.flatpickr-am-pm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[1]/following::span[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a4c772cf-820f-4f8d-af1b-468a222acaca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flatpickr-am-pm</value>
+      <webElementGuid>38f04424-c9ba-47f1-aff3-7ac06702b3d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Click to toggle</value>
+      <webElementGuid>1d1ce22a-cba4-4d8c-8dfe-7d4da04acd40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>fe290497-b707-499c-8de6-0dc383044fed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AM</value>
+      <webElementGuid>8e7d47d8-5f9f-49d0-b77f-4e9a2cfb8fb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;body&quot;]/div[@class=&quot;flatpickr-calendar hasTime animate renderv3-flatpickr-control open showTimeInput arrowBottom&quot;]/div[@class=&quot;flatpickr-time&quot;]/span[@class=&quot;flatpickr-am-pm&quot;]</value>
+      <webElementGuid>cc4e182e-cf98-44e7-a991-0d5a96107090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Obj_Forms_Rules_Execution/Page_Manage Forms/iframe_Preparing your form_lsq-form-iframe-_141349</value>
+      <webElementGuid>ed091517-ea73-47f7-8f93-3d0d14fc04ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[1]/following::span[3]</value>
+      <webElementGuid>e1a84fd7-cf85-43b7-bb8f-ce66be300af2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::span[48]</value>
+      <webElementGuid>ddd75de3-0384-4275-9c71-48c21a3f1ce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jan'])[1]/preceding::span[1]</value>
+      <webElementGuid>742b6354-644d-4335-a2df-79bfdf89f84f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feb'])[1]/preceding::span[1]</value>
+      <webElementGuid>f0d2c992-7e81-4aac-8ad7-206bf236122c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AM']/parent::*</value>
+      <webElementGuid>71e906ff-e645-4ba3-a845-6ff5330a5090</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span[2]</value>
+      <webElementGuid>af964055-cf2c-4573-b251-80fe22c07e86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Click to toggle' and (text() = 'AM' or . = 'AM')]</value>
+      <webElementGuid>f5dcf718-4bcf-4eba-b21c-1bc05d646a48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

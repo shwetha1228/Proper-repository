@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Goals_application-menu-icon pull-right</name>
+   <tag></tag>
+   <elementGuidId>c868a6cb-3a70-465c-b7e4-c6f59ad36043</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mx-site-header']/div[3]/div/div[2]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.application-menu-icon.pull-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3a191395-c1a3-4ccb-9661-12b4e5daf18a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>application-menu-icon pull-right</value>
+      <webElementGuid>ad66fd42-f105-4379-8f96-c0404d7eb526</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>5fa899f1-e387-4157-9ac6-2af33ad93d02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mx-site-header&quot;)/div[@class=&quot;navbar&quot;]/div[@class=&quot;navbar-inner grey1-bg&quot;]/div[@class=&quot;container tablet-menu&quot;]/a[@class=&quot;application-menu-icon pull-right&quot;]</value>
+      <webElementGuid>5d6af2c4-9e6a-4fd9-93c7-f9f2edd0e14c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mx-site-header']/div[3]/div/div[2]/a[2]</value>
+      <webElementGuid>e70fddc2-709e-49fb-b17b-f23e733cc05a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[12]</value>
+      <webElementGuid>39472518-fbb4-4ca7-8fc3-70f254ea946c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[2]</value>
+      <webElementGuid>0897df90-66ca-49ab-a610-51f8b98bac88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#']</value>
+      <webElementGuid>a02489f1-94d7-4063-8aa4-e2386a3e919f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

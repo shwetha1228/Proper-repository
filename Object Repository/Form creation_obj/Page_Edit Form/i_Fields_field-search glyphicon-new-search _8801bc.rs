@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Fields_field-search glyphicon-new-search _8801bc</name>
+   <tag></tag>
+   <elementGuidId>256ba5d4-048d-413a-a273-a004b6c7243e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='lsq-form-builder-edit-tab']/div/div/div/div/div/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.field-search.glyphicon-new-search.lsq-form-builder-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>177f2317-9afc-4403-b64c-00bfa13aeb8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>field-search glyphicon-new-search lsq-form-builder-icon</value>
+      <webElementGuid>3984b150-f5e9-4ee6-b13f-f87d9a4fcaf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Search Fields</value>
+      <webElementGuid>cc4541ea-3cd4-4c29-862c-f1a5af928ef3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lsq-form-builder-edit-tab&quot;)/div[@class=&quot;full-height full-width row-fluid lsq-form-builder-editor-wrapper rightPanelOpened leftPanelOpened&quot;]/div[@class=&quot;lsq-form-builder-leftpanel user-select-disable border-right opened&quot;]/div[@class=&quot;lsq-form-builder-leftpanel-header&quot;]/div[@class=&quot;lsq-form-builder-leftpanel-header-wrapper&quot;]/div[@class=&quot;lsq-form-builder-leftpanel-input-group&quot;]/span[1]/i[@class=&quot;field-search glyphicon-new-search lsq-form-builder-icon&quot;]</value>
+      <webElementGuid>9cd0cfe4-f056-4a88-af37-dd59438fee65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='lsq-form-builder-edit-tab']/div/div/div/div/div/span/i</value>
+      <webElementGuid>15ab5a94-5dd4-423f-b84e-04f1204b1172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span/i</value>
+      <webElementGuid>649182c2-f0ba-4d9a-b01b-82d8914f5e11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Search Fields']</value>
+      <webElementGuid>41372e7d-a77a-4e31-844b-3316bd579f3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Manage Forms</name>
+   <tag></tag>
+   <elementGuidId>bc12dfa2-d5a1-43c0-b512-f056dd961874</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='mx-top-nav-control']/li[5]/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f9909e5e-b7b5-45e4-b0b0-8526614833e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Form</value>
+      <webElementGuid>f7e8c6e0-cc47-43e9-ac1a-a76fb9139a44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Manage Forms</value>
+      <webElementGuid>e0650989-e485-4588-a795-1ebada2a3ca2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mx-site-header&quot;)/div[@class=&quot;navbar&quot;]/div[@class=&quot;navbar-inner grey1-bg&quot;]/div[@class=&quot;container desktop-menu&quot;]/div[@class=&quot;nav-collapse&quot;]/div[4]/ul[@id=&quot;mx-top-nav-control&quot;]/li[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[2]/a[1]</value>
+      <webElementGuid>fc3e44e6-b9ee-4e54-957b-2654df6f1499</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='mx-top-nav-control']/li[5]/ul/li[2]/a</value>
+      <webElementGuid>bc41fc88-a7a9-4b34-af76-7ef73f9a83ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Manage Forms')]</value>
+      <webElementGuid>feb6f6a6-2226-4b4a-b69c-01d8e0afba51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation'])[1]/following::a[1]</value>
+      <webElementGuid>59da97e1-3548-4aad-b5b3-f6e487759665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Lists'])[1]/following::a[3]</value>
+      <webElementGuid>ee96437e-4ea1-4f33-bd87-8ae0452159ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Process Designer'])[1]/preceding::a[1]</value>
+      <webElementGuid>41c55dc8-9d29-4f33-9e41-68e252c238be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Portals'])[1]/preceding::a[2]</value>
+      <webElementGuid>e49d00a7-6ef9-4d46-a00e-66e328bb0503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Forms']/parent::*</value>
+      <webElementGuid>f2367dc7-68dc-4f7b-8e9f-1383ce42c742</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Form')]</value>
+      <webElementGuid>461910de-86cf-4880-8212-e5f276f08d45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li[2]/a</value>
+      <webElementGuid>dc754a77-44b4-42d4-9aec-09ece971bc8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Form' and (text() = ' Manage Forms' or . = ' Manage Forms')]</value>
+      <webElementGuid>e1e448c0-1d22-4587-88c0-eb82ebd30ecd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__ispin-wrapper</name>
+   <tag></tag>
+   <elementGuidId>3c10b4b2-c4a1-4d49-afa5-afd83d82d020</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='FF_9deb642d-728c-4671-a6aa-83e68313187e__mx_Custom_18mx_CustomObject_4__Activity__201']/div/span[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-group.mx-custom-textfield.mx-custom.lsq-form-field-form-group.lsq-form-label-top.mx-custom-textfield-floating-label-completed > span.lsq-form-ctrl-field-container-block > div.ispin-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dab061b2-c85e-424e-b08c-b5751abeb3e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ispin-wrapper</value>
+      <webElementGuid>b45753e4-eda1-4023-a10b-2c206b7b8cce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FF_9deb642d-728c-4671-a6aa-83e68313187e__mx_Custom_18mx_CustomObject_4__Activity__201&quot;)/div[@class=&quot;form-group mx-custom-textfield mx-custom lsq-form-field-form-group  lsq-form-label-top      mx-custom-textfield-floating-label-completed&quot;]/span[@class=&quot;lsq-form-ctrl-field-container-block&quot;]/div[@class=&quot;ispin-wrapper&quot;]</value>
+      <webElementGuid>b743624a-9df4-4b35-b763-2e16dfba9e2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Form -create case with validation/Page_Manage Forms/iframe_Preparing your form_lsq-form-iframe-_37d1ea</value>
+      <webElementGuid>8a27da33-a2cb-427c-af62-c2892b38570f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='FF_9deb642d-728c-4671-a6aa-83e68313187e__mx_Custom_18mx_CustomObject_4__Activity__201']/div/span[2]/div</value>
+      <webElementGuid>2da63cc6-0632-4b1e-80c7-780067d5d944</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[10]/following::div[1]</value>
+      <webElementGuid>a5179d82-35a6-4dcd-99d9-1298be4061ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CFS1-Number4'])[1]/following::div[1]</value>
+      <webElementGuid>2bbbebee-03ab-40d0-a250-8103af5f9df1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CFS1-Number7'])[1]/preceding::div[1]</value>
+      <webElementGuid>6b3aa552-760d-4078-adad-8d1b1858d391</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[11]/preceding::div[1]</value>
+      <webElementGuid>4ea7e804-2473-413e-a5bc-eba5ed4396b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/span[2]/div</value>
+      <webElementGuid>682bfa41-fa94-4930-973d-c5aacd1b502e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Manage Custom Activities_user-icon</name>
+   <tag></tag>
+   <elementGuidId>8da08587-97cb-443b-a12e-28d700f357c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mx-site-main-body']/div[3]/a/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.user-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>18e7e6ec-1a50-4b1c-97c2-536afdb06433</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>user-icon</value>
+      <webElementGuid>2ee4c361-57c8-4458-a8ae-9cf394c00121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mx-site-main-body&quot;)/div[@class=&quot;application-menu-panel&quot;]/a[@class=&quot;user-details-link&quot;]/div[@class=&quot;user-details-wrapper&quot;]/div[1]/div[@class=&quot;user-icon&quot;]</value>
+      <webElementGuid>5afe013a-2696-47b7-be82-04f0eab8a059</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mx-site-main-body']/div[3]/a/div/div/div</value>
+      <webElementGuid>1f1c8b04-ee59-4654-bde9-136a6ecb55e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Custom Activities'])[1]/following::div[6]</value>
+      <webElementGuid>ee9c14e6-8860-43f4-8f1b-2302e6630523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Custom Fields'])[1]/following::div[8]</value>
+      <webElementGuid>c57790d3-603a-42b8-932c-9784e5c57ee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='shwetha'])[6]/preceding::div[1]</value>
+      <webElementGuid>771f3ea3-e7a2-4e50-8051-cd9d3f9b4717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='shwetha.DBsgp@mailinator.com'])[2]/preceding::div[2]</value>
+      <webElementGuid>dc655505-61af-4ba6-b8e8-34861f68f3dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div/div</value>
+      <webElementGuid>4e1494d9-4129-4bee-8ac1-069dd703c966</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

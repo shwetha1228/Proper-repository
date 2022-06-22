@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Create Form</name>
+   <tag></tag>
+   <elementGuidId>fac9e2e2-2750-46c1-894b-5ae702a745cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='document.lsqFormGridHelper.createForm(this)']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.related-action-link.medium.semi-bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>baa7e48d-f3d7-46a1-a42c-f005caff33ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>related-action-link medium semi-bold</value>
+      <webElementGuid>3ec5b5d7-979e-492f-b5ef-d63afa0cb787</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Create Form</value>
+      <webElementGuid>d4806ceb-d377-4865-80a9-5306f5e7f62e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>document.lsqFormGridHelper.createForm(this)</value>
+      <webElementGuid>b741d8fd-e09a-48cf-91b4-a35046bb4d56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Form</value>
+      <webElementGuid>dd62d6bf-e6e9-43ce-9651-68169228753e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;relatedAction_HR&quot;)/div[@class=&quot;related-action&quot;]/a[@class=&quot;related-action-link medium semi-bold&quot;]</value>
+      <webElementGuid>93e9d235-c288-4ea2-a888-b58db8cd1bd5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='document.lsqFormGridHelper.createForm(this)']</value>
+      <webElementGuid>7cf51455-d76c-43e3-ae2e-778b1a141f29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='relatedAction_HR']/div/a</value>
+      <webElementGuid>fe2f06cc-a4f2-4e64-b377-879cd897b038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='* Changes will be reflected after 5 minutes.'])[1]/following::a[1]</value>
+      <webElementGuid>74910177-e1c4-4e94-88bb-8355c4edfca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='select'])[1]/following::a[1]</value>
+      <webElementGuid>d53f66ef-ec6d-49fc-8fe3-9c5221f32741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Related Settings'])[1]/preceding::a[1]</value>
+      <webElementGuid>9f017633-edd3-49d6-a7b5-fcf343925356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a</value>
+      <webElementGuid>5c671908-fc57-4302-a6f2-e2d5e092dd18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Create Form' or . = 'Create Form')]</value>
+      <webElementGuid>069f2b60-c8af-42c5-b6c8-9f4318d382db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

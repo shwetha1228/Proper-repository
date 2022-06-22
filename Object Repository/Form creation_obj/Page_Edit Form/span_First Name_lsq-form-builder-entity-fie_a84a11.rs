@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_First Name_lsq-form-builder-entity-fie_a84a11</name>
+   <tag></tag>
+   <elementGuidId>13c66190-3174-4625-a008-0cafbd18d734</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='lsq-form-builder-lead-accordion-inner']/ul/li[21]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.width-45.one-col.lsq-form-builder-entity-field-list-item.lsq-form-builder-accordion-lead-field-list-item.ui-sortable-handle.lsq-form-entity-field-matched > div.lsq-form-builder-accordion-entity-field-list-item-wrapper > span.lsq-form-builder-entity-field-list-item-add-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3eb86480-234e-4821-9f62-b5f664ef0721</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lsq-form-builder-entity-field-list-item-add-icon</value>
+      <webElementGuid>999a57ae-ce6f-4733-95c2-f2c9a020cd0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lsq-form-builder-lead-accordion-inner&quot;)/ul[@class=&quot;lsq-form-builder-accordion-lead-field-list lsq-form-builder-sortable-list ui-sortable&quot;]/li[@class=&quot;width-45 one-col lsq-form-builder-entity-field-list-item lsq-form-builder-accordion-lead-field-list-item ui-sortable-handle lsq-form-entity-field-matched&quot;]/div[@class=&quot;lsq-form-builder-accordion-entity-field-list-item-wrapper&quot;]/span[@class=&quot;lsq-form-builder-entity-field-list-item-add-icon&quot;]</value>
+      <webElementGuid>d7343493-2261-46e4-b213-c526d5501982</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='lsq-form-builder-lead-accordion-inner']/ul/li[21]/div/span</value>
+      <webElementGuid>9eff3283-a3cd-46fb-a37e-eabd68596a56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[21]/div/span</value>
+      <webElementGuid>1c6ee393-54ec-44c3-addd-f5c84fdca8e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

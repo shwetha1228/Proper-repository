@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Test</name>
+   <tag></tag>
+   <elementGuidId>63ab2f53-ced2-449f-85aa-4a2fd26275d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;TestForm('c0e9a917-c459-4fe4-9726-632b08e8b0ce', false);&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e331d3bd-2c9f-420e-9e06-82279bda52ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>small-x</value>
+      <webElementGuid>645f91ed-fb34-475e-b9e5-08a5dcb45817</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>82ddcd3c-c536-4e85-b5f8-81f84fbc0979</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>TestForm('c0e9a917-c459-4fe4-9726-632b08e8b0ce', false);</value>
+      <webElementGuid>272ba68c-617b-49c4-8cd0-7fcd104a50d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test</value>
+      <webElementGuid>1e2bb89c-c928-4569-9240-10294237ed6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FormGrid&quot;)/table[1]/tbody[1]/tr[@class=&quot;hoverBackground&quot;]/td[@class=&quot;t-last&quot;]/div[@class=&quot;settings-actions btn-group button-positioning open&quot;]/ul[@class=&quot;dropdown-menu ul-setting&quot;]/li[6]/a[@class=&quot;small-x&quot;]</value>
+      <webElementGuid>e3cd2869-84fa-41bb-a07c-421c59408110</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;TestForm('c0e9a917-c459-4fe4-9726-632b08e8b0ce', false);&quot;]</value>
+      <webElementGuid>1609f1f5-6519-4b8b-930e-32db98afb5bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='FormGrid']/table/tbody/tr[3]/td[7]/div/ul/li[6]/a</value>
+      <webElementGuid>07102f4c-cd32-45da-9090-4761715201b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Test')])[3]</value>
+      <webElementGuid>0e56bcdb-b716-445a-919e-56fdd6bd8d4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unpublish'])[3]/following::a[1]</value>
+      <webElementGuid>b53aff2b-f616-4318-9043-102731b9f58e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rename'])[3]/following::a[2]</value>
+      <webElementGuid>92554fec-a413-400b-9772-74c7dd84b6f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export Form HTML'])[3]/preceding::a[1]</value>
+      <webElementGuid>293ad37b-dd26-440c-b8cc-1d02ccc6e16e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Live Edit'])[3]/preceding::a[2]</value>
+      <webElementGuid>c6f3d0bb-61c6-4302-91f3-88fc6625b493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[23]</value>
+      <webElementGuid>8ade7147-b372-42f8-8c46-84aa2bc85220</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[7]/div/ul/li[6]/a</value>
+      <webElementGuid>7e69a914-85c7-4916-b134-c20c82e3952b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = 'Test' or . = 'Test')]</value>
+      <webElementGuid>8c031691-34df-4636-a713-8b6a2a75d95c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Another user is editing this form. Please_763b9a</name>
+   <tag></tag>
+   <elementGuidId>17be627e-aa5d-4ba4-a298-542bb2b91998</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mx-site-main-body']/div[2]/div/div/div/ul/li/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.glyphicon-new-home.lsq-form-builder-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3c89e898-fb2d-4c5a-8718-32ce3951f8e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon-new-home lsq-form-builder-icon</value>
+      <webElementGuid>b499c560-6815-4f1b-b5b2-c34072d96f0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mx-site-main-body&quot;)/div[@class=&quot;lsq-form-builder-wrapper&quot;]/div[@class=&quot;lsq-form-builder-header box-shadow&quot;]/div[@class=&quot;lsq-form-builder-toolbar-container border-bottom clearfix bg-white&quot;]/div[@class=&quot;lsq-form-builder-toolbar-wrapper&quot;]/ul[@class=&quot;lsq-form-builder-toolbar&quot;]/li[@class=&quot;lsq-form-builder-tool&quot;]/span[1]/i[@class=&quot;glyphicon-new-home lsq-form-builder-icon&quot;]</value>
+      <webElementGuid>6610b8fb-7012-4e28-b98c-947542f8d4a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mx-site-main-body']/div[2]/div/div/div/ul/li/span/i</value>
+      <webElementGuid>f48f3152-0fcf-4af5-9acb-ae6d396e05ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>60ae52eb-7801-4564-b032-71ea12b94b83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

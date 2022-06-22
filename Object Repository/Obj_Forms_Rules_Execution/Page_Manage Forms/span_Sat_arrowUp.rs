@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sat_arrowUp</name>
+   <tag></tag>
+   <elementGuidId>fa5b6e5d-3a5a-4777-8309-6f1dcc04c0ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flatpickr-time > div.numInputWrapper > span.arrowUp</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[3]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eaaba1aa-591a-426f-947d-4e4635c60395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>arrowUp</value>
+      <webElementGuid>c3636e2e-1fbe-443b-b5a5-b99995a43a6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;body&quot;]/div[@class=&quot;flatpickr-calendar hasTime animate renderv3-flatpickr-control open showTimeInput arrowBottom&quot;]/div[@class=&quot;flatpickr-time&quot;]/div[@class=&quot;numInputWrapper&quot;]/span[@class=&quot;arrowUp&quot;]</value>
+      <webElementGuid>0eec1666-b527-4ea0-a569-9ec4aceb447c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Obj_Forms_Rules_Execution/Page_Manage Forms/iframe_Preparing your form_lsq-form-iframe-_742ad8</value>
+      <webElementGuid>42fc704c-670f-496a-aa20-50da893e69fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/span</value>
+      <webElementGuid>680148b4-fee1-406f-a1e3-4671d827783e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

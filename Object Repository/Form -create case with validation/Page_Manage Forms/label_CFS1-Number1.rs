@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_CFS1-Number1</name>
+   <tag></tag>
+   <elementGuidId>7e80acd0-cfaa-4dcd-bc23-681a31ce3db0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='FF_9deb642d-728c-4671-a6aa-83e68313187e__mx_Custom_18mx_CustomObject_1__Activity__201']/div/span/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>50cdb20a-c814-4804-a696-940f4888d8b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx-custom control-label lsq-form-field-label </value>
+      <webElementGuid>86631715-625d-4357-acac-4e459f7f2bc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CFS1-Number1</value>
+      <webElementGuid>bcc72531-b56f-4789-b719-ad766ee84615</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FF_9deb642d-728c-4671-a6aa-83e68313187e__mx_Custom_18mx_CustomObject_1__Activity__201&quot;)/div[@class=&quot;form-group mx-custom-textfield mx-custom lsq-form-field-form-group  lsq-form-label-top disabled lsq-form-read-only-rule-applied&quot;]/span[@class=&quot;lsq-form-ctrl-label-container-block&quot;]/label[@class=&quot;mx-custom control-label lsq-form-field-label&quot;]</value>
+      <webElementGuid>8661bc51-836f-4aa3-8fdb-bad24f332a71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Form -create case with validation/Page_Manage Forms/iframe_Preparing your form_lsq-form-iframe-_e5ad30</value>
+      <webElementGuid>3d7177b7-cea8-47de-b12e-bc92e95d1ec7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='FF_9deb642d-728c-4671-a6aa-83e68313187e__mx_Custom_18mx_CustomObject_1__Activity__201']/div/span/label</value>
+      <webElementGuid>b2728e8b-6b88-4530-821c-475af3c7ad00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='X'])[1]/following::label[1]</value>
+      <webElementGuid>aac6f883-e31a-4967-970f-21ec13d5da09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending'])[2]/following::label[1]</value>
+      <webElementGuid>366a44b9-dddc-4340-bc68-39bae08631f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/preceding::label[1]</value>
+      <webElementGuid>c4d31d4f-d35f-4ed8-950e-63cb168863f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CFS1-Number2'])[1]/preceding::label[1]</value>
+      <webElementGuid>1bd739d8-cc18-4dd6-bb40-757d706caf7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CFS1-Number1']/parent::*</value>
+      <webElementGuid>79d4e6b8-346e-4782-9ded-4b42621fbe9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/div/div[2]/div/span/label</value>
+      <webElementGuid>fa84c5f5-eb1e-4413-b3b0-2598e64d1df7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'CFS1-Number1' or . = 'CFS1-Number1')]</value>
+      <webElementGuid>35942869-be2d-47cc-b53d-27df1b99883b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

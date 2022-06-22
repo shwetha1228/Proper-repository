@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Fields_form-control lsq-form-builder-_14ae7b</name>
+   <tag></tag>
+   <elementGuidId>0d613d1c-eed1-4792-ae9a-1459eaeebf8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.lsq-form-builder-leftpanel-searchbox.lsq-form-builder-to-be-hidden.opened</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e2630b85-4e4a-4619-bf0e-ef6f8b0bd76c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>dad0cb8a-9f2b-4209-98bc-a1be1a564418</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control lsq-form-builder-leftpanel-searchbox lsq-form-builder-to-be-hidden opened</value>
+      <webElementGuid>ed166e02-3eb3-4240-b8e2-0f0e19e4255f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search Fields</value>
+      <webElementGuid>3a2ae210-cd0d-4deb-bf9a-3d71365150ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lsq-form-builder-edit-tab&quot;)/div[@class=&quot;full-height full-width row-fluid lsq-form-builder-editor-wrapper rightPanelOpened leftPanelOpened&quot;]/div[@class=&quot;lsq-form-builder-leftpanel user-select-disable border-right opened&quot;]/div[@class=&quot;lsq-form-builder-leftpanel-header&quot;]/div[@class=&quot;lsq-form-builder-leftpanel-header-wrapper&quot;]/div[@class=&quot;lsq-form-builder-leftpanel-input-group&quot;]/input[@class=&quot;form-control lsq-form-builder-leftpanel-searchbox lsq-form-builder-to-be-hidden opened&quot;]</value>
+      <webElementGuid>bf16fa76-960a-4ae8-8115-59b3871a5d7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[2]</value>
+      <webElementGuid>1bd62097-fa57-4a2a-8dd7-b15292d14ebc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='lsq-form-builder-edit-tab']/div/div/div/div/div/input</value>
+      <webElementGuid>01716cb6-fbfa-44bb-ad91-3042deb7a133</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/input</value>
+      <webElementGuid>a943aed7-a430-4fd0-a203-78426273590d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Search Fields']</value>
+      <webElementGuid>8e04b2fe-72be-4ad5-ad03-e3e887072531</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
